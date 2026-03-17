@@ -59,7 +59,7 @@ campus-ordering-system/
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/edisonmalasan/campus-ordering.git
+git clone [https://github.com/edisonmalasan/campus-ordering.git](https://github.com/edisonmalasan/NaviBites.git)
 cd campus-ordering
 ```
 
